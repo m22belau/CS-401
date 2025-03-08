@@ -1,6 +1,6 @@
-#Project Title: Homework 01
+# Project Title: Homework 01
 
-###Student: Berylin Lau
+### Student: Berylin Lau
 
-##Notes: Python file that says hello world
+## Notes: Python file that says hello world
 
