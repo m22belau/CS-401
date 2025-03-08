@@ -1,5 +1,5 @@
-###porject name: homework 01
+### project name: homework 01
 
-##student: berylin lau
+## student: berylin lau
 
-notes: this is for my CS 401
+# notes: this is for my CS 401
